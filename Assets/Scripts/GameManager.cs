@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour {
 
 	public Text m_ScoreUIText;
 
-	private float m_score;
+	//private float m_score;
 	private float m_gameSpeed;
 	public GameObject[] m_prefabSections;
 	public float[] m_prefabsectionsLength;
