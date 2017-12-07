@@ -18,7 +18,7 @@ public class GameManager : MonoBehaviour {
 
 	private float m_currentPrefabPos = 0;
 
-	public float GameSpeed{ get{return m_gameSpeed; } }
+	//public float GameSpeed{ get{return m_gameSpeed; } }
 
 	private static GameManager m_instance = null;
 
